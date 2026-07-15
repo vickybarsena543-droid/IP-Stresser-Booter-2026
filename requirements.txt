@@ -1,0 +1,5 @@
+pynput
+Pillow
+requests
+numpy
+psutil
